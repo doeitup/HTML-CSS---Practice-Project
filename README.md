@@ -16,4 +16,5 @@ This project contains a basic contact form designed using HTML and CSS. The form
 The purpose of this project is to practice frontend development skills by creating a functional and aesthetically pleasing contact form. It helps in understanding form structure, styling, and responsive design basics.
 
 Demo (Scroll Interaction)
-![website view 1](https://github.com/user-attachments/assets/56676b2a-ffe5-4cf7-af6d-4c0425e8a8ed)
+![website+view+1+(1)+(1)](https://github.com/user-attachments/assets/8c7a4d35-7003-4080-abf6-ec6dffc48dc3)
+
